@@ -1,2 +1,2 @@
 # VIX-Regression
-Developed a predictive regression model for VIX spikes using macroeconomic indicators and market data.
+Built a VIX spike prediction model using engineered volatility features and macro‑surprise indicators. Trained a Random Forest classifier with class‑balanced weighting and optimized probability thresholds to improve high‑volatility detection. Achieved roughly 70% recall and 58% precision in forecasting top‑decile VIX spikes by capturing nonlinear interactions between short‑horizon volatility regimes and macroeconomic surprise signals.
